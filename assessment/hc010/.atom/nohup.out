@@ -1,0 +1,10 @@
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+[15812:0914/103525.294367:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x2e291f101c00]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+[15812:0914/103751.956023:ERROR:buffer_manager.cc(453)] [.DisplayCompositor-0x2e291f103400]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: worker.js:61:22
+Remote event names: destroyed, crashed
+Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: worker.js:61:22
+Remote event names: destroyed, crashed
